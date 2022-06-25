@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5,
+    "liveServer.settings.wait": 10,
+    "liveServer.settings.multiRootWorkspaceName": "proyectoDemoCursoPrework",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.fullReload": true
+}
